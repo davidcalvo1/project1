@@ -1,1 +1,1 @@
-Hola, este es el texto hecho con el comando cat > nombre-archivo.txt en la terminal.
+Hola, este es el texto hecho con el comando cat > nombre-archivo.txt en la terminal y editado con el comando nano.
